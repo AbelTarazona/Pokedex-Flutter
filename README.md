@@ -1,16 +1,36 @@
-# pokemon_challenge
+# Geeks Castle Technical Challenge
 
-A new Flutter project.
+Este repositorio contiene la solución al reto técnico de la empresa Geeks Castle, desarrollado con Flutter. La aplicación está diseñada para cumplir con los requisitos establecidos en el desafío y demostrar mis habilidades en el desarrollo de aplicaciones móviles usando Flutter.
 
-## Getting Started
+## Tabla de Contenidos
 
-This project is a starting point for a Flutter application.
+- [Descripción](#descripción)
+- [Demo](#demo)
+- [Tecnologías Utilizadas](#tecnologías-utilizadas)
+- [Consideraciones](#consideraciones)
 
-A few resources to get you started if this is your first Flutter project:
+## Descripción
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Este proyecto es una aplicación móvil desarrollada para el reto técnico de Geeks Castle. La aplicación incluye home y detalle.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Demo
+
+Mira la demo de la aplicación en YouTube:
+
+[![Demo de la aplicación](https://img.youtube.com/vi/8mKwC7xQkTk/0.jpg)](https://youtu.be/8mKwC7xQkTk)
+
+APK en el siguiente link [APK](https://drive.google.com/drive/folders/1r4Vow62Ix6AqccqBtiBo8Cq08cvL-R2f?usp=sharing)
+
+## Tecnologías Utilizadas
+
+- **Flutter**: Framework de desarrollo móvil
+- **Dart**: Lenguaje de programación utilizado con Flutter
+
+## Consideraciones
+
+- [x] Pokemons en stream
+- [x] UI premium
+- [x] Animaciones en transiciones
+- [x] Mostrar empty state
+- [x] Bloc
+- [x] Clean architecture
