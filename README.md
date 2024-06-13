@@ -1,6 +1,6 @@
-# Geeks Castle Technical Challenge
+# Pokedex Flutter
 
-Este repositorio contiene la solución al reto técnico de la empresa Geeks Castle, desarrollado con Flutter. La aplicación está diseñada para cumplir con los requisitos establecidos en el desafío y demostrar mis habilidades en el desarrollo de aplicaciones móviles usando Flutter.
+La aplicación está diseñada para cumplir con los requisitos establecidos en el desafío y demostrar mis habilidades en el desarrollo de aplicaciones móviles usando Flutter.
 
 ## Tabla de Contenidos
 
@@ -11,7 +11,7 @@ Este repositorio contiene la solución al reto técnico de la empresa Geeks Cast
 
 ## Descripción
 
-Este proyecto es una aplicación móvil desarrollada para el reto técnico de Geeks Castle. La aplicación incluye home y detalle.
+La aplicación incluye home y detalle.
 
 ## Demo
 
